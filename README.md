@@ -19,4 +19,4 @@ Empty credentials
 
 
 Wrong credentials
-![ screenshot](/not_correct.png?raw=true "Optional Title")
+![ screenshot](/screenshots/not_correct.png?raw=true "Optional Title")
